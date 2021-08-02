@@ -3,7 +3,7 @@
  
 "json_popup_wait" : "Server Ready - v18j13",
   
-"mode_no_ads" : true,
+"mode_no_ads" : false,
 "mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
 
 // Mode Iklan
@@ -57,9 +57,9 @@
 "applovin_banner_id" : "YOUR_AD_UNIT_ID",
 "applovin_inters_id" : "YOUR_AD_UNIT_ID",
 
-"Button_Rating" : "Rating Sekarang",
-"Button_Share" : "Bagikan Ke Teman",
-"Button_Start" : "Mulai",
+"Button_Rating" : "Rate Now!",
+"Button_Share" : "Share to Friends",
+"Button_Start" : "Start",
 
 "exit_popup_dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya :)",
 "rate_button" : "Rating 5 Bintang",
