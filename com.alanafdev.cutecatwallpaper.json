@@ -1,7 +1,7 @@
 {
   "redirect" : {
  
-"json_popup_wait" : "Server Ready - v18j13",
+"json_popup_wait" : "Server Loading....",
   
 "mode_no_ads" : true,
 "mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
@@ -56,10 +56,11 @@
 
 "applovin_banner_id" : "YOUR_AD_UNIT_ID",
 "applovin_inters_id" : "YOUR_AD_UNIT_ID",
+    
 
-"Button_Rating" : "Rating Now",
-"Button_Share" : "Share to friends",
-"Button_Start" : "Now",
+"Button_Rating" : "Rate Now!",
+"Button_Share" : "Share to Friends",
+"Button_Start" : "Start",
 
 "exit_popup_dialog" : "support us to be more enthusiastic in developing this application \n \n help us rating five yes!  :)",
 "rate_button" : "5 five rating",
@@ -67,7 +68,7 @@
 "enable_Share_button" : true,
 "Share_TXT" : "Very cool application, I've tried it, try downloading it too, you'll be happy too  ",
 "more_button" : "Share Via WhatsApp",
-"url_more_apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE "
+"url_more_apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE "   
 
   }
 }
